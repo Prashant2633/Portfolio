@@ -14,12 +14,7 @@ const Contact = () => {
                 prashant19419@gmail.com
               </a>
             </p>
-            <h4>Phone</h4>
-            <p>
-              <a href="tel:+919728822528" data-cursor="disable">
-                +91 97288 22528
-              </a>
-            </p>
+
             <h4>Location</h4>
             <p className="contact-location">
               Bengaluru, India
